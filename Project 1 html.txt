@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+</head>
+<body>
+    <h1>Ishu Mishra</h1>
+
+    <h2>About Me</h2>
+    <p>I am a student learning Cloud Computing, and in future i want to learn more .</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>C++</li>
+        <li>Python</li>
+        <li>Cloud Computing( Learning )</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: ishumishra8072@gmail.com</p>
+</body>
+</html>
